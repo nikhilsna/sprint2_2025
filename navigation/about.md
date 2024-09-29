@@ -121,8 +121,6 @@ Everything for me, as for many others, revolves around family and faith.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
-# Hello world
-
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
