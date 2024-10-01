@@ -65,7 +65,7 @@ Flags are made using Wikipedia images
         {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
         {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
     ];
-
+    
     // 3a. Consider how to update style count for size of container
     // The grid-template-columns has been defined as dynamic with auto-fill and minmax
 
